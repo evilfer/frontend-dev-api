@@ -90,7 +90,7 @@
   {
     "features": {
       "is_druggable": true,
-      "is_enzyme": true
+      "is_enzyme": false
     },
     "id": "P00533",
     "family": "Tyr protein kinase family",
@@ -149,7 +149,7 @@
   },
   {
     "features": {
-      "is_druggable": true,
+      "is_druggable": false,
       "is_enzyme": true
     },
     "id": "P04049",
@@ -353,8 +353,8 @@
   },
   {
     "features": {
-      "is_druggable": true,
-      "is_enzyme": true
+      "is_druggable": false,
+      "is_enzyme": false
     },
     "id": "P06241",
     "family": "Tyr protein kinase family",
@@ -530,7 +530,7 @@
   {
     "features": {
       "is_druggable": true,
-      "is_enzyme": true
+      "is_enzyme": false
     },
     "id": "Q08881",
     "family": "Tyr protein kinase family",
@@ -673,7 +673,7 @@
   },
   {
     "features": {
-      "is_druggable": true,
+      "is_druggable": false,
       "is_enzyme": true
     },
     "id": "P10721",
@@ -926,7 +926,7 @@
   {
     "features": {
       "is_druggable": true,
-      "is_enzyme": true
+      "is_enzyme": false
     },
     "id": "P08581",
     "family": "Tyr protein kinase family",
@@ -1337,7 +1337,7 @@
   },
   {
     "features": {
-      "is_druggable": true,
+      "is_druggable": false,
       "is_enzyme": true
     },
     "id": "P35968",
@@ -1461,7 +1461,7 @@
   },
   {
     "features": {
-      "is_druggable": true,
+      "is_druggable": false,
       "is_enzyme": true
     },
     "id": "P06239",
